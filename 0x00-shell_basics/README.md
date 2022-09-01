@@ -1,1 +1,1 @@
-magic
+multiple permissions

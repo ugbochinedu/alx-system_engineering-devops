@@ -1,2 +1,1 @@
-#!/bin/bash
-This script will show how to print working directory
+Move the file betty from /tmp/ to /tmp/my_first_directory

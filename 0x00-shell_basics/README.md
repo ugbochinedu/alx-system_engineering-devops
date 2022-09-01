@@ -1,1 +1,1 @@
-task 8: delete the file betty
+task 9. delete directory

@@ -1,3 +1,2 @@
 #!/bin/bash
-/tmp/betty /tmp/my_first_directory/betty>> 7-movethatfile
 echo /tmp/betty /tmp/my_first_directory/betty

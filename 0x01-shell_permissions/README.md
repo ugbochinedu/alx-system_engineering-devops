@@ -1,1 +1,1 @@
-john doe
+mirror permission

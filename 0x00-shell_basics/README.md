@@ -1,1 +1,1 @@
-task 11. list all files
+task. script that print file type.

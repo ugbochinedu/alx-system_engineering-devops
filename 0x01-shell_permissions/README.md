@@ -1,1 +1,1 @@
-all groups
+new owner

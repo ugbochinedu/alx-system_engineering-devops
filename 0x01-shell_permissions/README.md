@@ -1,1 +1,1 @@
-switch current user
+who am i

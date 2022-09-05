@@ -1,0 +1,2 @@
+#!/bin/bash
+echo 'list content of working directory'> ls_cwd_content

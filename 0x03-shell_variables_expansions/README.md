@@ -4,3 +4,4 @@ path
 set
 8-true_knowledge
 9-divide_and_rule
+11-binary_to_decimal
